@@ -1,2 +1,28 @@
+$navbar-default-bg: #eff4fc;
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+#homepage {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.padding {
+  margin-top: 45px;
+}
+
+.home {
+  text-align: center;
+}
+
+#footer {
+  margin-top: 200px;
+}
+
+.footer {
+  position: relative;
+  text-align: center;
+  bottom: -80px;
+  font-size: 14px;
+}
