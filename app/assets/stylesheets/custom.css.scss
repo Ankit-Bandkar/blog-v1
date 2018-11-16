@@ -50,6 +50,11 @@ $navbar-default-bg: #eff4fc;
   padding-left: 0;
 }
 
+.badge {
+  background: white;
+  text-transform: uppercase;
+}
+
 .footer {
   position: relative;
   text-align: center;
@@ -59,4 +64,8 @@ $navbar-default-bg: #eff4fc;
 
 .position {
   margin-left: 400px;
+}
+
+.custom-margin {
+  margin-bottom: 1.5em;
 }
